@@ -1,5 +1,5 @@
 ##Master code
-Func Master
+Function1 ()
 {
 ##Code
 }

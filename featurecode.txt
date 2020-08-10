@@ -1,5 +1,5 @@
 #! Feature code begins
-Func fraturecode1
+Func featurecode1
 {
 ##My feature code 1
 }
